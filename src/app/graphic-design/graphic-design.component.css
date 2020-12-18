@@ -1,7 +1,7 @@
 .heading {
   text-align: center;
   font-style: italic;
-  color: rgb(36, 85, 243);
+  color: rgb(2, 2, 2);
 }
 
 .pic {
@@ -11,4 +11,5 @@
 
 #about_me{
   font-style: italic;
+    color: rgb(61, 109, 182);
 }
